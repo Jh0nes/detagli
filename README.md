@@ -1,4 +1,4 @@
-detagli
-=======
+mage_1702
+=========
 
-detagli e-shop
+Magento CE 1.7.0.2 Mirror of repo
